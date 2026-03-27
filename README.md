@@ -59,16 +59,16 @@ cd smart-soil-monitoring-system
 2. Backend Setup
 
 ```bash
-cd backend
+cd farm-iot-backend
 npm install
-npm start
+node server.js
 ```
 # create another Terminal on VS code 
 
 3. Frontend Setup
 
 ```bash
-cd frontend
+cd farm-dashboard
 npm install
 npm start
 ```
